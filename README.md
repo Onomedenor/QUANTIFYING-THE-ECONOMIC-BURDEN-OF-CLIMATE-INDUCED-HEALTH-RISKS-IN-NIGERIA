@@ -30,7 +30,7 @@ This project evaluates the **economic burden of Climate-Induced Health Risks (CI
 
 ## 🧍 Socio-Economic Characteristics
 
-- 🧑‍🌾 **Gender**: 79.5% of respondents were male, indicating male-dominated agricultural households. Female household heads were more common in the South East.
+- 🧑‍🌾 **Gender**: 78.49% of respondents were male, indicating male-dominated agricultural households. Female household heads were more common in the South East.
 
   
 ![Screenshot 807](https://github.com/Onomedenor/QUANTIFYING-THE-ECONOMIC-BURDEN-OF-CLIMATE-INDUCED-HEALTH-RISKS-IN-NIGERIA/blob/main/Screenshot%20(807).png)
@@ -38,7 +38,7 @@ This project evaluates the **economic burden of Climate-Induced Health Risks (CI
 
 
 
-- 🏡 **Sector**: 86% of respondents were from rural areas, highlighting high vulnerability to CIHR due to healthcare and infrastructure gaps.
+- 🏡 **Sector**: 89.44% of respondents were from rural areas, highlighting high vulnerability to CIHR due to healthcare and infrastructure gaps.
 
 ![Screenshot 810](https://github.com/Onomedenor/QUANTIFYING-THE-ECONOMIC-BURDEN-OF-CLIMATE-INDUCED-HEALTH-RISKS-IN-NIGERIA/blob/main/Screenshot%20(810).png)
 
@@ -83,7 +83,7 @@ This project evaluates the **economic burden of Climate-Induced Health Risks (CI
 
 
 
-- 💼 **Employment**: 86.2% of respondents reported being unemployed, a critical factor increasing economic vulnerability to climate-health shocks.
+- 💼 **Employment**: a frequency of 433 respondents reported being unemployed, a critical factor increasing economic vulnerability to climate-health shocks.
 
 
 
@@ -162,11 +162,6 @@ This project supports the development of:
 ---
 
 
-## 💻 Repository Layout
 
-├── data/ # Cleaned and processed datasets (from GHS-Panel)
-├── models/ # R scripts and notebooks for OLS & logistic regression
-├── visualizations/ # All charts, plots, and visual outputs
-├── report/ # Final project write-up (PDF)
-└── README.md # Project summary and documentation
+
 
