@@ -31,9 +31,12 @@ This project evaluates the **economic burden of Climate-Induced Health Risks (CI
 ## 🧍 Socio-Economic Characteristics
 
 - 🧑‍🌾 **Gender**: 79.5% of respondents were male, indicating male-dominated agricultural households. Female household heads were more common in the South East.
-  
+  ![Screenshot 807](https://github.com/Onomedenor/QUANTIFYING-THE-ECONOMIC-BURDEN-OF-CLIMATE-INDUCED-HEALTH-RISKS-IN-NIGERIA/blob/main/Screenshot%20(807).png)
+
 
 - 🏡 **Sector**: 86% of respondents were from rural areas, highlighting high vulnerability to CIHR due to healthcare and infrastructure gaps.
+  ![Screenshot 809](https://github.com/Onomedenor/QUANTIFYING-THE-ECONOMIC-BURDEN-OF-CLIMATE-INDUCED-HEALTH-RISKS-IN-NIGERIA/blob/main/Screenshot%20(809).png)
+
 
 - 📅 **Age**: The average age was 43.66 years. Majority were within the productive age bracket (18–47 years), linking to CIHR impact on labor force.
 
