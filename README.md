@@ -161,6 +161,14 @@ This project supports the development of:
 
 ---
 
+## 💻 Repository Layout
+
+```text
+├── data/              # Cleaned and processed datasets (from GHS-Panel)
+├── models/            # R scripts and notebooks for OLS & logistic regression
+├── visualizations/    # All charts, plots, and visual outputs
+├── report/            # Final project write-up (PDF)
+└── README.md          # Project summary and documentation
 
 
 
